@@ -5,9 +5,10 @@ Achieves **86% test accuracy** with Batch Normalisation, Dropout, Data Augmentat
 scheduling. Trained entirely in Google Colab — no local setup required.
 
 ## Results
-| Model | Test Accuracy |
+ Model - **CNN**
 
-| **CNN** | **86.06%** |
+ Test Accuracy - **86.06%** 
+
 
 ## Techniques Used
 - **3-Block CNN Architecture** — Stacked Conv2D layers with 32 → 64 → 128 filters
@@ -20,4 +21,5 @@ scheduling. Trained entirely in Google Colab — no local setup required.
 
 ## Dataset
 [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) — 60,000 colour images (32×32) across 10 classes, loaded directly via `tensorflow.keras.datasets`.
+
 **Classes:** airplane · automobile · bird · cat · deer · dog · frog · horse · ship · truck
