@@ -6,6 +6,7 @@ scheduling. Trained entirely in Google Colab — no local setup required.
 
 ## Results
 | Model | Test Accuracy |
+
 | **CNN** | **86.06%** |
 
 ## Techniques Used
