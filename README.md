@@ -2,7 +2,7 @@
 
 CIFAR-10 image classification using a deep Convolutional Neural Network built from scratch in TensorFlow/Keras.
 Achieves **86% test accuracy** with Batch Normalisation, Dropout, Data Augmentation, and adaptive learning rate 
-scheduling. Trained entirely in Google Colab — no local setup required.
+scheduling.
 
 ## Results
  Model - **CNN**
